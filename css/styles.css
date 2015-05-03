@@ -1,0 +1,24 @@
+body {
+  background: url('img/amazerainbow.jpg') no-repeat center center fixed;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  text-align: center;
+  font-family: 'Rambla', sans-serif;
+}
+
+#title {
+  font-size: 64px;
+  color: #F1ECD6;
+  margin-top: 30px;
+}
+
+#info{
+  /*position: absolute;*/
+  margin-top: 450px;
+}
+
+h2 {
+  color: #F1ECD6;
+}
