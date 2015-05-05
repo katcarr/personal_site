@@ -22,3 +22,12 @@ body {
 h2 {
   color: #F1ECD6;
 }
+
+
+a:hover{
+  text-decoration: none;
+}
+
+a h2:hover{
+  color: #362C28;
+}
